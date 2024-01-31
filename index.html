@@ -1,0 +1,66 @@
+<html>
+<head>
+<link href="http://fonts.cdnfonts.com/css/common-pixel" rel="stylesheet">
+                
+<title>./Hacked By Kamenkun</title>
+<style>
+body{
+  margin: 10;
+  padding: 0;
+  background: black;
+  text-align: center;
+}
+
+#text{
+  color: red;
+  font-size: 40px;
+  text-align: center;
+  margin-top: 100px;
+  text-transform: uppercase;
+  font-family: 'Common Pixel', sans-serif;
+  font-weight: 900;
+  
+}
+#text2{
+  color: white;
+  font-size: 18px;
+  text-align: center;
+  margin-top: 50px;
+  text-transform: uppercase;
+  font-family: 'Common Pixel', sans-serif;
+  font-weight: 900;
+  
+}
+@font-face {
+    font-family: 'Common Pixel';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Common Pixel'), url('https://fonts.cdnfonts.com/s/7553/COMMP___.woff') format('woff');
+}
+</style>
+</head>
+<body>
+<img style="padding: 10;"src="https://i.pinimg.com/236x/0b/de/ad/0bdead28e9d5945c687911b3e79cc373.jpg">
+
+    <div id="text">
+
+    </div>
+
+<script>
+  var i=0,text;
+  text = "Hacked By ./KamenKun"
+
+  function ketik() {
+    if(i<text.length){
+      document.getElementById("text").innerHTML += text.charAt(i);
+      i++;
+      setTimeout(ketik,80);
+    }
+  }
+  ketik();
+</script>
+<br>
+<p id="text2">** Powered By ./KamenKun **
+</p>
+</body>
+</html>
